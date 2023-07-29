@@ -72,3 +72,39 @@ bootstrap();
 }
 
 bootstrap();
+
+
+
+
+
+  const app = await NestFactory.create(AppModule);
+  await app.listen(process.env.PORT || 3000);
+}
+
+bootstrap();
+  await app.listen(process.env.PORT || 3000);
+}
+
+bootstrap();
+  await app.listen(process.env.PORT || 3000);
+}
+
+bootstrap();
+bootstrap();
+  await app.listen(process.env.PORT || 3000);
+}
+
+bootstrap();
+  await app.listen(process.env.PORT || 3000);
+}
+
+bootstrap();
+bootstrap();
+  await app.listen(process.env.PORT || 3000);
+}
+
+bootstrap();
+  await app.listen(process.env.PORT || 3000);
+}
+
+bootstrap();
